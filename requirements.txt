@@ -1,11 +1,11 @@
 fastapi
 uvicorn
 gunicorn
-pydantic
 opencv-python-headless
-numpy==1.26.4
+numpy<2.0.0
 deepface
 ultralytics
 huggingface_hub
 python-dotenv
+tf-keras
 
